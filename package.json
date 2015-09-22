@@ -1,7 +1,7 @@
 {
   "name": "grunt-sauce-connect-launcher",
   "description": "Grunt plug-in to download and launch an instance of Sauce Labs Sauce Connect",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "homepage": "https://github.com/seckardt/grunt-sauce-connect-launcher",
   "author": "Steffen Eckardt <mosh666@gmail.com>",
   "repository": {
@@ -21,7 +21,7 @@
     "node": ">=0.10.x"
   },
   "dependencies": {
-    "sauce-connect-launcher": "~0.4.0",
+    "sauce-connect-launcher": "^0.12.0",
     "request": "~2.34.0",
     "q": "~1.0.1",
     "lodash": "~2.4.1"
